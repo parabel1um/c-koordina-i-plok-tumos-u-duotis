@@ -1,4 +1,4 @@
-# JKM C++ pirmųjų metų kurso egzaminui pasiruošti užduotis
+# JKM C++ pirmųjų metų kurso egzaminui pasiruošti skirta užduotis
 
 **Užduoties sąlyga:**
 
